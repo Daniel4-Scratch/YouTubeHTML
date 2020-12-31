@@ -24,6 +24,6 @@ tnYDjT3wqZA
 ```
 Now add the Youtube tag into the `<body>` of your html file with the youtube video id
 ```html
-<youtube id="youtubembed">tnYDjT3wqZA</youtube>
+<youtube>tnYDjT3wqZA</youtube>
 ```
 **Make sure to add the id**
