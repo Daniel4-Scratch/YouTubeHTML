@@ -5,7 +5,7 @@
   
 </p>
 
-Adds a YouTube tag for HTML
+Adds a YouTube tag for HTML.
 
 ```html
 <youtube id="youtubembed">tnYDjT3wqZA</youtube>
