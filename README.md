@@ -10,6 +10,10 @@ Adds a YouTube tag for HTML.
 ```html
 <youtube id="youtubembed">tnYDjT3wqZA</youtube>
 ```
+or
+```html
+<div id="youtubembed">tnYDjT3wqZA</div>
+```
 
 # Usage
 First add the script tag in the `<head>` section of your html file
